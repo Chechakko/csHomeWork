@@ -7,6 +7,6 @@ if (number % 2 == 0)
 } 
 else
 {
-    Console.WriteLine("Число не чётное: ");
+    Console.WriteLine("Число нечётное: ");
 }
 
