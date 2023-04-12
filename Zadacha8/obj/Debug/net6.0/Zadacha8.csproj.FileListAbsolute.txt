@@ -1,0 +1,15 @@
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.csproj.AssemblyReference.cache
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.AssemblyInfoInputs.cache
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.AssemblyInfo.cs
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.csproj.CoreCompileInputs.cache
+/Users/viktorchen/Desktop/csHomework/Zadacha8/bin/Debug/net6.0/Zadacha8
+/Users/viktorchen/Desktop/csHomework/Zadacha8/bin/Debug/net6.0/Zadacha8.deps.json
+/Users/viktorchen/Desktop/csHomework/Zadacha8/bin/Debug/net6.0/Zadacha8.runtimeconfig.json
+/Users/viktorchen/Desktop/csHomework/Zadacha8/bin/Debug/net6.0/Zadacha8.dll
+/Users/viktorchen/Desktop/csHomework/Zadacha8/bin/Debug/net6.0/Zadacha8.pdb
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.dll
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/refint/Zadacha8.dll
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.pdb
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/Zadacha8.genruntimeconfig.cache
+/Users/viktorchen/Desktop/csHomework/Zadacha8/obj/Debug/net6.0/ref/Zadacha8.dll
